@@ -3,7 +3,7 @@
 
 这是一个集成了 dapr 的精简版 abp vnext web api 项目模板
 
-
+## 参考地址：https://www.cnblogs.com/danvic712/p/simplify-abp-generated-template-structure.html
 
 ## Architecture
 
